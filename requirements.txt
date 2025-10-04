@@ -1,0 +1,8 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pyautogui
+psutil
+requests
+PyPDF2
+pywhatkit
